@@ -20,9 +20,7 @@ Together, these partnerships strengthen both the individual Knowledge Hubs and t
 
 # Partnership Philosophy
 
-GAILC does not seek organizations to endorse its work.
-
-GAILC seeks institutions willing to help build the world's enduring knowledge infrastructure for AI liability.
+GAILC seeks institutions committed to advancing AI liability through long-term collaboration, shared expertise, and the development of enduring knowledge infrastructure.
 
 Every partnership is founded on shared expertise, long-term collaboration, and the advancement of practical knowledge.
 

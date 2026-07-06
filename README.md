@@ -2,9 +2,7 @@
 
 The Global AI Liability Consortium advances AI liability through long-term institutional partnerships that strengthen the world's enduring knowledge infrastructure for AI liability.
 
-The Institutional Partnership Program provides organizations with meaningful opportunities to contribute expertise, research, professional practice, and institutional leadership to the development of GAILC's Knowledge Hubs.
-
-Partnerships are built around shared knowledge creation rather than sponsorship.
+The Institutional Partnership Program is built on shared knowledge creation, institutional collaboration, and the development of enduring knowledge infrastructure for AI liability.
 
 > **Liability is where AI disciplines converge.**
 
